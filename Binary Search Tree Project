@@ -1,0 +1,8 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+  Root 7 'dir.
+  1. seviye -> 7'nin solunda 5 bulunur. 8, root 7 'nin sağındadır.
+  2. seviye -> 1, sol dalda 7 nin ve 5 in solundadır. 6 sol dalda 5'in sağındadır. 9 sağ dalda, 8 'in sağındadır.
+  3. seviye -> 3, sol dalda 1'in sağındadır. 0 sol dalda 1'in solundadır.
+  4. seviye -> 4 sol dalda , 3 'ün sağındadır. 2 sol dalda , 3'ün solundadır.
+ 
